@@ -1,0 +1,1105 @@
+[{
+		"AAA": "Access Approval Authority"
+	},
+	{
+		"AAA": "Army Audit Agency"
+	},
+	{
+		"ABCS": "Army Battle Command System"
+	},
+	{
+		"ACA": "Access Control Authority"
+	},
+	{
+		"ACES": "Automated Continuing Evaluation System"
+	},
+	{
+		"ACSI": "Assistant Chief of Staff for Intelligence (Army)"
+	},
+	{
+		"ADP": "Automated Data Processing"
+	},
+	{
+		"ADPSO": "Automated Data Processing Security Officer"
+	},
+	{
+		"ADPSSO": "Automated Data Processing System Security Officer"
+	},
+	{
+		"ADR": "Adjudicative Desk Reference"
+	},
+	{
+		"ADS": "Automated Data System"
+	},
+	{
+		"AF": "Air Force"
+	},
+	{
+		"AFB": "Air Force Base"
+	},
+	{
+		"AFCAF": "Air Force Central Adjudication Facility"
+	},
+	{
+		"AFI": "Air Force Instruction"
+	},
+	{
+		"AFMAN": "Air Force Manual"
+	},
+	{
+		"AFOSF": "Air Force Office of Security Forces"
+	},
+	{
+		"AFOSI": "Air Force Office of Special Investigations"
+	},
+	{
+		"AFOSP": "Air Force Office of Security Police"
+	},
+	{
+		"AFPC": "Air Force Personnel Center"
+	},
+	{
+		"AFPD": "Air Force Policy Directive"
+	},
+	{
+		"AFR": "Air Force Regulation"
+	},
+	{
+		"AFSCO": "Air Force Security Clearance Office"
+	},
+	{
+		"AG/SCM": "Advisory Group/Security Countermeasures"
+	},
+	{
+		"AGS": "Architectural Graphic Standards"
+	},
+	{
+		"AIA": "Air Intelligence Agency"
+	},
+	{
+		"AIA": "Army Intelligence Agency"
+	},
+	{
+		"AIS": "Automated Information Systems"
+	},
+	{
+		"AISS": "Automated Information Systems Security"
+	},
+	{
+		"AISSP": "Automated Information Systems Secuirty Plan’"
+	},
+	{
+		"ANACI": "Access National Agency Check with Written Inquiries"
+	},
+	{
+		"AO": "Area of Operations"
+	},
+	{
+		"AOA": "Analysis of Alternatives"
+	},
+	{
+		"AOA": "Area of Application"
+	},
+	{
+		"AQ-SAP": "Acquisition Special Access Program"
+	},
+	{
+		"BAA": "Business Associate Agreement"
+	},
+	{
+		"BINAS": "Biosafety Information Network Advisory System"
+	},
+	{
+		"BIOS": "Basic Input-Output System"
+	},
+	{
+		"BIPN": "Background Investigation plus Current National Agency Check"
+	},
+	{
+		"BIS": "Bureau of Industry and Security"
+	},
+	{
+		"BISS": "Base and Installation Security System"
+	},
+	{
+		"BMS": "Balanced Magnetic Switch"
+	},
+	{
+		"CAN": "Computer Network Attack"
+	},
+	{
+		"CAO": "Contract Administration Office"
+	},
+	{
+		"CAP": "Controlled Access Program"
+	},
+	{
+		"CAPCO": "Controlled Access Program Coordination Office"
+	},
+	{
+		"CBI": "Confidential Business Information"
+	},
+	{
+		"CBIPM": "Confidential Business Information Protective Measure"
+	},
+	{
+		"CDR": "Critical Design Review"
+	},
+	{
+		"CD-R": "Compact Disk-Read"
+	},
+	{
+		"CD-ROM": "Compact-Disk} Read-Only Memory"
+	},
+	{
+		"CDSE": "Center for Development of Security Excellence"
+	},
+	{
+		"CE": "Compromising Emanations"
+	},
+	{
+		"CI": "Counterintelligence"
+	},
+	{
+		"CI": "Critical Information"
+	},
+	{
+		"CIA": "Central Intelligence Agency"
+	},
+	{
+		"CIAR": "Counterintelligence Awareness and Reporting"
+	},
+	{
+		"CIFA": "Counterintelligence Field Activity"
+	},
+	{
+		"CIIA": "Critical Infrastructure Information Act"
+	},
+	{
+		"CIK": "Crypto-Ignition Key"
+	},
+	{
+		"CIO": "Chief Information Officer"
+	},
+	{
+		"CIPA": "Classified Information Procedures Act"
+	},
+	{
+		"CIRT": "Computer Incident Response Team"
+	},
+	{
+		"CIS": "Cryptologic Information System"
+	},
+	{
+		"CISARA": "Counterintelligence} Security Countermeasures} and Related Activities"
+	},
+	{
+		"CISO": "Counterintelligence Support Officer"
+	},
+	{
+		"CISP": "Counterintelligence Support Plan"
+	},
+	{
+		"CISSM": "Component Information System Security Manager"
+	},
+	{
+		"CISSP": "Certified Information Systems Security Professional"
+	},
+	{
+		"CKTS": "Computerized Key Telephone System"
+	},
+	{
+		"CLAS": "Classified By"
+	},
+	{
+		"CM": "Classification Management"
+	},
+	{
+		"CM": "Configuration Management"
+	},
+	{
+		"CM": "Countermeasure"
+	},
+	{
+		"CMB": "Configuration Management Board"
+	},
+	{
+		"CMI": "Classified Military Information"
+	},
+	{
+		"CMIWG": "Classification Markings and Implementation Working Group"
+	},
+	{
+		"CNA": "Computer Network Attack"
+	},
+	{
+		"CNE": "Computer Network Exploitation"
+	},
+	{
+		"CNSI": "Classified National Security Information"
+	},
+	{
+		"CNSS": "Committee on National Security Systems"
+	},
+	{
+		"CO": "Cyberspace Operations"
+	},
+	{
+		"COMINT": "Communications Intelligence"
+	},
+	{
+		"CPSO": "Command Program Security Officer"
+	},
+	{
+		"CPSO": "Contractor Program Security Officer"
+	},
+	{
+		"CPU": "Central Processing Unit"
+	},
+	{
+		"CPWG": "Crime-Prevention Working Group"
+	},
+	{
+		"CRG": "Compliance Review Group"
+	},
+	{
+		"CRYPTO": "Cryptography"
+	},
+	{
+		"CS&": "Office of Cybersecurity and Communications"
+	},
+	{
+		"CSA": "Cognizant Security Agency"
+	},
+	{
+		"CSA": "Cognizant Security Authority"
+	},
+	{
+		"CSCS": "Contract Security Classification Specification"
+	},
+	{
+		"CSE": "Center for Security Evaluation"
+	},
+	{
+		"CSEA": "Cyber Security Enhancement Act"
+	},
+	{
+		"CSIL": "Critical and Sensitive Information List"
+	},
+	{
+		"CSISM": "Communications Security (COMSEC) Supplement to the Industrial Security Manual"
+	},
+	{
+		"CSO": "Cognizant Security Office"
+	},
+	{
+		"CSS": "Central Security Service"
+	},
+	{
+		"CSS": "Constant Surveillance Service"
+	},
+	{
+		"CSSM": "Communications-Computer System Security Manager"
+	},
+	{
+		"CST": "Construction Surveillance Technician"
+	},
+	{
+		"CT": "Counter Terrorism"
+	},
+	{
+		"CTC": "Counterterrorist Center"
+	},
+	{
+		"CTS": "Computerized Telephone System"
+	},
+	{
+		"CTS": "COSMIC TOP SECRET"
+	},
+	{
+		"CTSA": "COSMIC TOP SECRET ATOMAL"
+	},
+	{
+		"CTTA": "Certified Transient Electromagnetic Pulse Emanation Standard (TEMPEST) Technical Authority"
+	},
+	{
+		"CW": "Code Word"
+	},
+	{
+		"CW": "Cyber Warfare"
+	},
+	{
+		"DARPA": "Defense Advanced Research Projects Agency"
+	},
+	{
+		"DCC": "Defensive Counter-Cyber"
+	},
+	{
+		"DCFL": "Defense Computer Forensics Lab"
+	},
+	{
+		"DCHC": "Defense Counterintelligence and Human Intelligence Center"
+	},
+	{
+		"DCI SSC": "Director of Central Intelligence Special Security Center"
+	},
+	{
+		"DCL": "Declassify"
+	},
+	{
+		"DCS": "Defense Clandestine Service"
+	},
+	{
+		"DCSINT": "Deputy Chief of Staff for Intelligence Army"
+	},
+	{
+		"DD": "Defense Department"
+	},
+	{
+		"DDA": "Designated Disclosure Authority"
+	},
+	{
+		"DDAL": "Delegation of Disclosure Authority Letter"
+	},
+	{
+		"DDEP": "Defense Data Exchange Program"
+	},
+	{
+		"DECL": "Declassify"
+	},
+	{
+		"DHS": "Department of Homeland Security"
+	},
+	{
+		"DIA": "Defense Intelligence Agency"
+	},
+	{
+		"DIAC": "Defense Intelligence Analysis Center"
+	},
+	{
+		"DIACAP": "Department of Defense (DoD) Information Assurance Certification and Accreditation Process"
+	},
+	{
+		"DIAM": "Defense Intelligence Agency Manual"
+	},
+	{
+		"DIC": "Defense Intelligence Community"
+	},
+	{
+		"DICOB": "Defense Industrial Security Clearance Oversight Board"
+	},
+	{
+		"DIDO": "Designated Intelligence Disclosure Official"
+	},
+	{
+		"DII": "Defense Information Infrastructure"
+	},
+	{
+		"DIRNSA": "Director} National Security Agency"
+	},
+	{
+		"DIS": "Defense Investigative Service"
+	},
+	{
+		"DISA": "Defense Information Systems Agency"
+	},
+	{
+		"DISN": "Defense Information Systems Network"
+	},
+	{
+		"DISP": "Department of Defense (DoD) Industrial Security Program"
+	},
+	{
+		"DITSCAP": "Department of Defense (DoD) Information Technology Security Certification and Accreditation Process"
+	},
+	{
+		"DMDC": "Defense Manpower Data Center"
+	},
+	{
+		"DMF": "Data Management Facility"
+	},
+	{
+		"DMNS": "Data Management Notification System"
+	},
+	{
+		"DMS": "Data Management System"
+	},
+	{
+		"DMS": "Defense Messaging System"
+	},
+	{
+		"DNI": "Director of National Intelligence"
+	},
+	{
+		"DNI": "Director of Naval Intelligence"
+	},
+	{
+		"DoDIIS": "Department of Defense Intelligence Information System"
+	},
+	{
+		"DoDIS": "Department of Defense Information System"
+	},
+	{
+		"DOS": "Denial of Service"
+	},
+	{
+		"DOS": "Disk Operating System"
+	},
+	{
+		"DRAM": "Dynamic Random-Access Memory"
+	},
+	{
+		"DRB": "Defense Resources Board"
+	},
+	{
+		"DRMO": "Defense Reutilization Management Office"
+	},
+	{
+		"DS": "Direct Support"
+	},
+	{
+		"DSA": "Designated Security Authority"
+	},
+	{
+		"DSB": "Defensive Security Brief"
+	},
+	{
+		"DSCA": "Defense Security Cooperation Agency"
+	},
+	{
+		"DSEC": "Director of Security"
+	},
+	{
+		"DSMC": "Defense Systems Management College"
+	},
+	{
+		"DSN": "Defense Switched Network"
+	},
+	{
+		"DSS": "Defense Security Service"
+	},
+	{
+		"DSSCS": "Defense Special Security Communication System"
+	},
+	{
+		"DSS-PIC": "DSS Personnel Investigations Center"
+	},
+	{
+		"DSSS": "Defense Special Security System"
+	},
+	{
+		"DT&": "Development Test and Evaluation"
+	},
+	{
+		"DTIC": "Defense Technical Information Center"
+	},
+	{
+		"DTM": "Data-Transmission Media"
+	},
+	{
+		"DTSA": "Defense Technology Security Administration"
+	},
+	{
+		"DVD": "Digital Video Disk"
+	},
+	{
+		"EA": "Electronic Attack"
+	},
+	{
+		"EPITS": "Essential Program Information} Technologies and Systems"
+	},
+	{
+		"EPROM": "Erasable Programmable Read-Only Memory"
+	},
+	{
+		"EPSQ": "Electronic Personnel Security Questionnaire"
+	},
+	{
+		"ES": "Electronic Surveillance"
+	},
+	{
+		"ESS": "Electronic Security System"
+	},
+	{
+		"ET": "Electronic Transmission"
+	},
+	{
+		"ETZ": "Equipment Transient Electromagnetic Pulse Emanation Standard (TEMPEST) Zone"
+	},
+	{
+		"EW": "Electronic Warfare"
+	},
+	{
+		"EWS": "Electronic Warfare Support"
+	},
+	{
+		"FAFSA": "Free Application for Federal Student Aid"
+	},
+	{
+		"FBIS": "Foreign Broadcast Information Service"
+	},
+	{
+		"FCIP": "Foreign Counterintelligence Program"
+	},
+	{
+		"FCL": "Facility Security Clearance"
+	},
+	{
+		"FEMA": "Federal Emergency Management Agency Only Memory"
+	},
+	{
+		"FI": "Foreign Intelligence"
+	},
+	{
+		"FIDS": "Facility Intrusion Detection System"
+	},
+	{
+		"FIE": "Foreign Intelligence Entity"
+	},
+	{
+		"FIS": "Foreign Intelligence Services"
+	},
+	{
+		"FISA": "Foreign Intelligence Surveillance Act"
+	},
+	{
+		"FISD": "Federal Investigative Services Division"
+	},
+	{
+		"FISINT": "Foreign Instrumentation Signals Intelligence"
+	},
+	{
+		"FISMA": "Federal Information Security Management Act"
+	},
+	{
+		"FIT": "Foreign Inspection Team"
+	},
+	{
+		"FIU": "Field Investigative Unit"
+	},
+	{
+		"FM": "Frequency-Modulated"
+	},
+	{
+		"FN": "Foreign National"
+	},
+	{
+		"FOIA": "Freedom of Information Act"
+	},
+	{
+		"FOIA/PA": "Freedom of Information Act/Privacy Act"
+	},
+	{
+		"FRAM": "Ferroelectric Random-Access Memory"
+	},
+	{
+		"FRD": "Formerly Restricted Data"
+	},
+	{
+		"FTZ": "Facilities Transient Electromagnetic Pulse Emanation Standard (TEMPEST) Zone"
+	},
+	{
+		"G2": "Assistant Chief of Staff} G2 Intelligence"
+	},
+	{
+		"G-2": "Staff Intelligence Officer"
+	},
+	{
+		"GDIP": "General Defense Intelligence Programs"
+	},
+	{
+		"GEOINT": "Geospatial Intelligence"
+	},
+	{
+		"GHz": "Gigahertz"
+	},
+	{
+		"GIG": "Global Information Grid"
+	},
+	{
+		"GII": "Global Information Infrastructure"
+	},
+	{
+		"GSC": "Government Security Committee"
+	},
+	{
+		"GSOIA": "General Security of Information Agreement"
+	},
+	{
+		"GSOMIA": "General Security of Military Information Agreement"
+	},
+	{
+		"HDMI": "High-Definition Multimedia Interface"
+	},
+	{
+		"HIPAA": "Health Insurance Portability and Accountability Act of 1996"
+	},
+	{
+		"HOIS": "Hostile Intelligence Services"
+	},
+	{
+		"HPSCI": "House Permanent Select Committee on Intelligence"
+	},
+	{
+		"HSA": "Homeland Security Act"
+	},
+	{
+		"HUMINT": "Human Intelligence"
+	},
+	{
+		"Hz": "Hertz"
+	},
+	{
+		"IA": "Information Assurance"
+	},
+	{
+		"IA": "Intelligence Activity"
+	},
+	{
+		"IAA": "Interim Access Authorization"
+	},
+	{
+		"IACSE": "Interagency Advisory Committee on Security Equipment"
+	},
+	{
+		"ICD": "Intelligence Community Directive"
+	},
+	{
+		"ICP": "Initial Control Point"
+	},
+	{
+		"ID": "Identification"
+	},
+	{
+		"IDC": "International Data Center"
+	},
+	{
+		"IDE": "Intrusion Detection Equipment"
+	},
+	{
+		"IDS": "Intrusion Detection System"
+	},
+	{
+		"IEID": "International Exchange of Infrasound Data"
+	},
+	{
+		"IERD": "International Exchange of Radionuclide Data"
+	},
+	{
+		"IESD": "International Exchange of Seismological Data"
+	},
+	{
+		"IOSS": "Interagency Operations Security (OPSEC) Support Staff"
+	},
+	{
+		"IP": "Internet Protocol"
+	},
+	{
+		"IPB": "Intelligence Preparation of the Battlefield"
+	},
+	{
+		"IPSAC": "Interagency Security Classification Appeals Panel"
+	},
+	{
+		"IR": "Infrared"
+	},
+	{
+		"IRM": "Information Resource Management"
+	},
+	{
+		"IS": "Information System"
+	},
+	{
+		"ISA": "International Security Agreement"
+	},
+	{
+		"ISCOM": "Naval Investigative Service Command"
+	},
+	{
+		"ISD": "Information Storage Device"
+	},
+	{
+		"ISD": "Inspectable Space Determination"
+	},
+	{
+		"ISDN": "Integrated Services Digital Network"
+	},
+	{
+		"ISFD": "Industrial Security Facilities Database"
+	},
+	{
+		"ISOO": "Information Security Oversight Office"
+	},
+	{
+		"ISPG": "Intelligence Programs Support Group"
+	},
+	{
+		"ISRP": "Information Systems Requirements Package"
+	},
+	{
+		"ISS": "Information Systems Security"
+	},
+	{
+		"ISS": "Inspection Support Staff"
+	},
+	{
+		"ISS": "Integrated Safeguards Subgroup"
+	},
+	{
+		"ISSE": "Information System Security Engineer"
+	},
+	{
+		"ISSM": "Information Systems Security Manager"
+	},
+	{
+		"ISSO": "Information Systems Security Officer"
+	},
+	{
+		"ISSP": "Information Systems Security Professional"
+	},
+	{
+		"ISSR": "Information Systems Security Representative"
+	},
+	{
+		"ISWG": "Industrial Security Working Group"
+	},
+	{
+		"IT": "Information Technology"
+	},
+	{
+		"ITAB": "Information Technology Acquisition Board"
+	},
+	{
+		"ITAC": "Intelligence and Threat Analysis Center"
+	},
+	{
+		"J2": "Intelligence Directorate} Joint Command"
+	},
+	{
+		"JCITA": "Joint Counterintelligence Training Academy"
+	},
+	{
+		"JCS": "Joint Chiefs of Staff"
+	},
+	{
+		"JMIC": "Joint Military Intelligence College"
+	},
+	{
+		"JMIP": "Joint Military Intelligence Programs"
+	},
+	{
+		"JMITC": "Joint Military Intelligence Training Center"
+	},
+	{
+		"JPAS": "Joint Personnel Adjudication System"
+	},
+	{
+		"JROC": "Joint Requirements Oversight Council"
+	},
+	{
+		"JSAIWG": "Joint Sensitive Compartmented Information (SCI) Accreditation/Inspection Working Group"
+	},
+	{
+		"J-SIIDS": "Joint Services Interior Intrusion Detection System"
+	},
+	{
+		"JWICS": "Joint Worldwide Intelligence Communication System"
+	},
+	{
+		"kHz": "Kilohertz"
+	},
+	{
+		"LAA": "Limited Access Authorization"
+	},
+	{
+		"LAC": "Local Agency Check"
+	},
+	{
+		"LAN": "Local Area Network"
+	},
+	{
+		"LBI": "Limited Background Investigation"
+	},
+	{
+		"LBIP": "Limited Background Investigation plus Current National Agency Check"
+	},
+	{
+		"LBIX": "Limited Background Investigation Expanded"
+	},
+	{
+		"LE": "Law Enforcement"
+	},
+	{
+		"LEA": "Law Enforcement Agency"
+	},
+	{
+		"LFC": "Local Files Check"
+	},
+	{
+		"LIMDIS": "Limited Dissemination"
+	},
+	{
+		"LIMDIS": "Limited Distribution"
+	},
+	{
+		"LN": "Local Network"
+	},
+	{
+		"MASINT": "Measurement and Signature Intelligence"
+	},
+	{
+		"MI": "Military Intelligence"
+	},
+	{
+		"NACIC": "National Counterintelligence Center"
+	},
+	{
+		"NATO": "North Atlantic Treaty Organization (NATO) SECRET ATOMAL"
+	},
+	{
+		"NCCIC": "National Cybersecurity and Communications Integration Center"
+	},
+	{
+		"NCIC": "National Crime Information Center"
+	},
+	{
+		"NCRAL": "National Cyber Risk Alert Level"
+	},
+	{
+		"NCS": "National Communications System"
+	},
+	{
+		"NCS": "National Cryptologic School"
+	},
+	{
+		"NCSC": "National Computer Security Center"
+	},
+	{
+		"NCSD": "National Cyber Security Division"
+	},
+	{
+		"Net": "Network"
+	},
+	{
+		"NETMGR": "Network Manager"
+	},
+	{
+		"NetOps": "Network Operations"
+	},
+	{
+		"NFIB": "National Foreign Intelligence Board"
+	},
+	{
+		"NFIP": "National Foreign Intelligence Program"
+	},
+	{
+		"NGA": "National Geospatial-Intelligence Agency"
+	},
+	{
+		"NGIC": "National Ground Intelligence Center"
+	},
+	{
+		"NII": "National Information Infrastructure"
+	},
+	{
+		"NIPRNET": "Non-Secure/Unclassified Internet Protocol Router Network"
+	},
+	{
+		"NIS": "Network Information System"
+	},
+	{
+		"NATO": "North Atlantic Treaty Organization (NATO) SECRET"
+	},
+	{
+		"NSA/CSS": "National Security Agency/Central Security Service"
+	},
+	{
+		"NSC": "National Security Council"
+	},
+	{
+		"NSI": "National Security Information"
+	},
+	{
+		"OCO": "Offensive Cyberspace Operations"
+	},
+	{
+		"ODCI": "Office of the Director of Central Intelligence"
+	},
+	{
+		"ODNI": "Office of the Director of National Intelligence"
+	},
+	{
+		"OIS": "Office Information System"
+	},
+	{
+		"PDS": "Practice Dangerous to Security"
+	},
+	{
+		"PDS": "Protected Distribution System"
+	},
+	{
+		"PDS": "Public Domain Software"
+	},
+	{
+		"PED": "Portable Electronic Device"
+	},
+	{
+		"PEM": "Program Element Monitor"
+	},
+	{
+		"PHOTINT": "Photographic Intelligence"
+	},
+	{
+		"PI": "Police Intelligence"
+	},
+	{
+		"PI": "Preliminary Inquiry"
+	},
+	{
+		"PID": "Personnel Identification Data"
+	},
+	{
+		"PII": "Personally Identifiable Information"
+	},
+	{
+		"PROM": "Programmable Read-Only Memory"
+	},
+	{
+		"PROPIN": "Proprietary Information"
+	},
+	{
+		"PS": "Physical Security"
+	},
+	{
+		"RAM": "Random-Access Memory"
+	},
+	{
+		"RD": "Restricted Data"
+	},
+	{
+		"RF": "Radio Frequency"
+	},
+	{
+		"RFI": "Radio Frequency Interference"
+	},
+	{
+		"RFI": "Representative of a Foreign Interest"
+	},
+	{
+		"RFID": "Radio-Frequency Identification"
+	},
+	{
+		"RII": "Relevant Information and Intelligence"
+	},
+	{
+		"ROM": "Read-Only Memory"
+	},
+	{
+		"S": "SECRET"
+	},
+	{
+		"S&T": "Science and Technology"
+	},
+	{
+		"S2": "Intelligence Officer} U.S. Army"
+	},
+	{
+		"SA": "System Administrator"
+	},
+	{
+		"SACS": "Security Access Control Systems"
+	},
+	{
+		"SAES": "Security Awareness and Education"
+	},
+	{
+		"SAR": "Special Access Required"
+	},
+	{
+		"SCE": "Service Cryptologic Element"
+	},
+	{
+		"SCG": "Security Classification Guide"
+	},
+	{
+		"SCI": "Sensitive Compartmented Information"
+	},
+	{
+		"SCIF": "Sensitive Compartmented Information Facility"
+	},
+	{
+		"SII": "Suitability/Security Investigation Index"
+	},
+	{
+		"SIO": "Senior Intelligence Officer"
+	},
+	{
+		"SISR": "Signals Intelligence Security Regulation"
+	},
+	{
+		"SRTM": "Security Requirements Traceability Matrix"
+	},
+	{
+		"SSDC": "Space and Strategic Defense Command"
+	},
+	{
+		"SSE": "System Security Engineering"
+	},
+	{
+		"SSEM": "System Security Engineering"
+	},
+	{
+		"SSII": "Suitability/Security Investigations Index"
+	},
+	{
+		"SSL": "Secure Socket Layer"
+	},
+	{
+		"SSM": "Site Security Manager"
+	},
+	{
+		"SSM": "System Security Manager"
+	},
+	{
+		"SSMP": "System Security Management Plan"
+	},
+	{
+		"TIARA": "Tactical Intelligence and Related Activities"
+	},
+	{
+		"TID": "Tamper Indicating Device"
+	},
+	{
+		"TIMS": "Treaty Information Management System"
+	},
+	{
+		"TISS": "Telecommunications and Automated Information Systems Security"
+	},
+	{
+		"TMO": "Technology Management Office"
+	},
+	{
+		"U": "Unclassified"
+	},
+	{
+		"UAA": "Uncontrolled Access Area"
+	},
+	{
+		"UCNI": "Unclassified Controlled Nuclear Information"
+	},
+	{
+		"UD": "Unauthorized Disclosure"
+	},
+	{
+		"USACIDU": "United States Army Criminal Investigation Command"
+	},
+	{
+		"USAF": "United States Air Force"
+	},
+	{
+		"USSAN": "United States Security Authority/North Atlantic Treaty Organization (NATO)"
+	},
+	{
+		"USSID": "United States Signals Intelligence Directive"
+	}
+]
